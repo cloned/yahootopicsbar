@@ -1,0 +1,4 @@
+content  yahootopicsbar chrome/yahootopicsbar/content/
+skin     yahootopicsbar classic/1.0 chrome/yahootopicsbar/skin/
+style    chrome://browser/content/browser.xul chrome://yahootopicsbar/skin/yahootopicsbar.css
+overlay  chrome://browser/content/browser.xul chrome://yahootopicsbar/content/yahootopicsbar.xul

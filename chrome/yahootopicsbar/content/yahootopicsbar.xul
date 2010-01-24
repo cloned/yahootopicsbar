@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://yahootopicsbar/skin/yahootopicsbar.css" type="text/css"?>
+
+<overlay id="YahooTopicsBarOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <script type="application/x-javascript" src="yahootopicsbar.js" />
+    <statusbar id="status-bar">
+        <statusbarpanel id="YahooTopicsBarPanel">
+            <image id="YahooTopicsBarYMark" />
+            <label id="YahooTopicsBarLabel" />
+        </statusbarpanel>
+    </statusbar>
+</overlay>

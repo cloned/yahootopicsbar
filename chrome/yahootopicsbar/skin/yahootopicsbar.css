@@ -1,0 +1,10 @@
+statusbarpanel#YahooTopicsBarPanel label.YahooTopicsBarNoneRead {
+  font-weight: bold;
+  color: #2E3652;
+}
+statusbarpanel#YahooTopicsBarPanel label.YahooTopicsBarReaded {
+  color: #777777;
+}
+statusbarpanel#YahooTopicsBarPanel image#YahooTopicsBarYMark {
+  list-style-image: url("chrome://yahootopicsbar/skin/ymark.gif");
+}
